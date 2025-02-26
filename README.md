@@ -12,3 +12,6 @@ Trained on a small dataset (**80 images**), achieving an **IoU Score of ~0.5** b
 3. Connect to a GPU and run all the cells.  
 4. The results will appear in `dataset2/output`.  
 5. *(Optional)* Use `water_segmentation_iou.ipynb` to calculate the IoU Score. Make sure to modify the paths before running it.  
+![Segmentation Result](https://github.com/Breeze1124/Water-Segmentation/raw/main/demo1.png)
+![Segmentation Result](https://github.com/Breeze1124/Water-Segmentation/raw/main/demo2.png)
+![Segmentation Result](https://github.com/Breeze1124/Water-Segmentation/raw/main/demo3.png)
